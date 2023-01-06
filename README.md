@@ -1,0 +1,1 @@
+Automated bot using the Python language and the Selenium tool, is in charge of entering one of the Instagram accounts and will start following the people who follow the aforementioned account
